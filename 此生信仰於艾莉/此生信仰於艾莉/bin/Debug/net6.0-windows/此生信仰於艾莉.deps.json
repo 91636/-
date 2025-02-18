@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "此生信仰於艾莉/1.0.0": {
+        "runtime": {
+          "此生信仰於艾莉.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "此生信仰於艾莉/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
